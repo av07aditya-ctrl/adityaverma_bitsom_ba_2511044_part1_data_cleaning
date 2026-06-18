@@ -37,7 +37,6 @@ aditya_bitsom_ba_2511044_part1_data_cleaning/
 │   ├── cleaned_data_preview.png  ← Cleaned data with calculated columns
 │   ├── pivot_summary_1.png       ← Region × Category analysis
 │   └── pivot_summary_2.png       ← Monthly trend + Segment + Shipping
-├── part1_main.py                 ← Full processing script
 └── README.md
 ```
 
