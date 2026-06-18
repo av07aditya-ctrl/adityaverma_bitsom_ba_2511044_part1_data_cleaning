@@ -1,7 +1,7 @@
 # Part 1: Business Data Cleaning, Validation & Excel Reporting
 
 **Student:** Aditya Verma | **ID:** `bitsom_ba_2511044`  
-**Repository:** `aditya_bitsom_ba_2511044_part1_data_cleaning`  
+**Repository:** `adityaverma_bitsom_ba_2511044_part1_data_cleaning`  
 **Tool Stack:** Python 3 (pandas, xlsxwriter, matplotlib) · Excel · Markdown
 
 ---
